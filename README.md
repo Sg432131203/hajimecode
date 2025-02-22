@@ -1,0 +1,2 @@
+# hajimecode
+hi firs
